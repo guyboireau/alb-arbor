@@ -74,11 +74,11 @@ export const siteConfig = {
 
   // ── 2. BRANDING ────────────────────────────────────────────────────────────
   branding: {
-    primaryColor:    '#2E5A27',   // Vert forêt
-    primaryDark:     '#1B3815',
-    primarySoft:     '#E8F5E9',
-    secondaryColor:  '#8B5A2B',   // Marron bois
-    accentColor:     '#4CAF50',   // Vert clair
+    primaryColor:    '#4a7c59',
+    primaryDark:     '#3a6347',
+    primarySoft:     '#dcf0e4',
+    secondaryColor:  '#2a362e',
+    accentColor:     '#b8763d',
     fontHeading:     'Outfit',
     fontBody:        'Outfit',
     fontMono:        'Geist Mono',
