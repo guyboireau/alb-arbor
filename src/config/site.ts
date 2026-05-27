@@ -182,7 +182,7 @@ export const siteConfig = {
       eyebrow:  'ARBORISTE GRIMPEUR DIPLÔMÉ',
       h1:       'L\'Expertise au service de vos Arbres',
       subtitle: 'Taille douce, soins spécialisés, abattages délicats et sécurisation post-intempéries. ALB-Arbor intervient à Kerlaz et dans tout le Finistère pour la pérennité de votre patrimoine arboré.',
-      image:    '/assets/images/hero.png',
+      image:    '/assets/images/img3.jpg',
       cta1:     { label: 'Demander un devis', href: '#contact' },
       cta2:     { label: 'Nos prestations', href: '#services' },
       trust:    ['Diplômé d\'État', 'Intervention en accès difficile', 'Respect de l\'arbre'],
@@ -235,8 +235,8 @@ export const siteConfig = {
         { value: '7/7',  label: 'En urgence' },
       ],
       cta:    { label: 'Nous contacter', href: '#contact' },
-      image:  '/assets/images/team.png',
-      author: { name: 'ALB-Arbor', role: 'Gérant / Arboriste', image: '/assets/images/portrait.png' },
+      image:  '/assets/images/img2.jpg',
+      author: { name: 'ALB-Arbor', role: 'Gérant / Arboriste', image: '/assets/images/img5.jpg' },
     },
 
     testimonials: {
