@@ -36,7 +36,7 @@ function escapeHtml(str: string): string {
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;')
-        .replace(/'/g, '&#039;');
+        .replace(/'/g, '&#1B3815;');
 }
 
 export const POST: APIRoute = async ({ request }) => {
